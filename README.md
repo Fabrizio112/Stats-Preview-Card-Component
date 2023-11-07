@@ -4,6 +4,7 @@
 Realice un componente de carta de estadisticas visto en la página de Frontend Mentor. Los colores y las imagenes son provistos por esta pagina 
 
 Intente realizarlo lo mas fiel posible al diseño original
+
 ----------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------
 
